@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EllipticalPath.cs">
+    <Files>
+      <File FileName="Assets\Space Journey\Plugins\Space Ship\SpaceshipController.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Google Drive\SaturnOnRailsShooter\Assets\_Scripts\ShipMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\EllipticalPath.cs" Line="44" Column="6" />
+      <File FileName="c:\Users\Shelbe and Kyle\workspace\Games\3D Space Shooter\sandbox\Assets\Space Graphics Toolkit\Editor\SgtExtractCubemap.cs" Line="81" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
